@@ -1,5 +1,5 @@
 // ============================================
-// AWILIS - Premium SEO & IA Agency
+// NEXRANK - Premium SEO & IA Agency
 // JavaScript Interactions & Animations
 // ============================================
 
@@ -625,11 +625,11 @@ function isInViewport(element) {
 // CONSOLE BRANDING (Optional Easter Egg)
 // ============================================
 console.log(
-    '%cAwilix - SEO & IA Premium',
+    '%cNexRank - SEO & IA Premium',
     'font-size: 24px; font-weight: bold; color: #6366F1; text-shadow: 2px 2px 4px rgba(99, 102, 241, 0.3);'
 );
 console.log(
-    '%cVous êtes curieux ? Nous aussi ! 🚀\nContactez-nous : contact@awilis.ai',
+    '%cVous êtes curieux ? Nous aussi ! 🚀\nContactez-nous : contact@nexrank.ai',
     'font-size: 14px; color: #8B5CF6; font-weight: 600;'
 );
 console.log(

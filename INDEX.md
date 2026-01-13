@@ -1,6 +1,6 @@
-# 🎉 SITE WEB AWILIS - INDEX GÉNÉRAL
+# 🎉 SITE WEB NEXRANK - INDEX GÉNÉRAL
 
-## 📍 Vous êtes ici : Awilix Premium Website v1.0
+## 📍 Vous êtes ici : NexRank Premium Website v1.0
 
 Bienvenue dans votre **site web premium ultra design** pour votre agence SEO & IA !
 
@@ -11,7 +11,7 @@ Bienvenue dans votre **site web premium ultra design** pour votre agence SEO & I
 Voici tous les fichiers de votre projet :
 
 ```
-awilis-main/
+nexrank-main/
 │
 ├── 📄 INDEX.md                      ← VOUS ÊTES ICI (commencez par ce fichier)
 ├── 📖 GUIDE_UTILISATION.md          ← Guide client (déploiement, personnalisation)
@@ -100,7 +100,7 @@ Vous aurez une URL type : `https://awilis-xyz.netlify.app`
    - Statistiques animées (350%, 98%, 24h)
    - Orbes animés en arrière-plan
 
-2. **🎯 Pourquoi Awilix**
+2. **🎯 Pourquoi NexRank**
    - 3 cartes : Problème / Solution / Bénéfices
    - Card centrale en gradient (mise en avant)
    - Icons SVG modernes
@@ -219,7 +219,7 @@ Vous aurez une URL type : `https://awilis-xyz.netlify.app`
 ### 🚀 Moyen terme (Ce mois)
 
 1. ✅ **Connecter votre domaine**
-   → Acheter `awilis.ai` si pas déjà fait
+   → Acheter `nexrank.ai` si pas déjà fait
    → Connecter sur Netlify (DNS)
 
 2. ✅ **Google Analytics**
@@ -376,9 +376,9 @@ R : Modifier `duration` dans `script.js` ligne ~10
 
 ### 📞 Contacts
 
-**Email :** contact@awilis.ai  
+**Email :** contact@nexrank.ai  
 **Téléphone :** +33 1 23 45 67 89  
-**Site :** www.awilis.ai (une fois déployé)
+**Site :** www.nexrank.ai (une fois déployé)
 
 ---
 
@@ -452,7 +452,7 @@ Vous avez maintenant un **site web premium ultra design** prêt à :
 
 **Besoin d'aide ?**  
 ➡️ Consultez la documentation appropriée ci-dessus  
-➡️ Contactez-nous : contact@awilis.ai  
+➡️ Contactez-nous : contact@nexrank.ai  
 
 ---
 
@@ -467,7 +467,7 @@ Vous avez maintenant un **site web premium ultra design** prêt à :
 ## 📂 Arborescence Complète
 
 ```
-awilis-main/
+nexrank-main/
 │
 ├── 📄 INDEX.md                      (Ce fichier - Point d'entrée)
 ├── 📖 GUIDE_UTILISATION.md          (Guide client - Déploiement & utilisation)
@@ -488,4 +488,4 @@ Lighthouse Score : 95-100
 
 ---
 
-**🎯 INDEX.md - Votre point de départ pour tout le projet Awilix !**
+**🎯 INDEX.md - Votre point de départ pour tout le projet NexRank !**

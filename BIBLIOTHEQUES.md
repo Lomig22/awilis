@@ -2,7 +2,7 @@
 
 ## 🎯 Vue d'ensemble
 
-Le site Awilix a été développé avec une approche **minimaliste et performante**, utilisant uniquement les technologies essentielles pour garantir :
+Le site NexRank a été développé avec une approche **minimaliste et performante**, utilisant uniquement les technologies essentielles pour garantir :
 
 ✅ **Performance maximale** (temps de chargement < 2s)  
 ✅ **Maintenance facile** (pas de dépendances complexes)  
@@ -460,9 +460,9 @@ Lighthouse Score: 70-85
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Awilix",
+  "name": "NexRank",
   "description": "Agence SEO & IA Premium",
-  "url": "https://www.awilis.ai",
+  "url": "https://www.nexrank.ai",
   "telephone": "+33-1-23-45-67-89"
 }
 </script>
@@ -477,8 +477,8 @@ Si vous souhaitez transformer le site en PWA :
 **manifest.json**
 ```json
 {
-  "name": "Awilix - SEO & IA",
-  "short_name": "Awilix",
+  "name": "NexRank - SEO & IA",
+  "short_name": "NexRank",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -503,7 +503,7 @@ Si vous souhaitez transformer le site en PWA :
 // sw.js
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('awilis-v1').then((cache) => {
+    caches.open('nexrank-v1').then((cache) => {
       return cache.addAll([
         '/',
         '/styles.css',
@@ -654,7 +654,7 @@ Avant mise en ligne :
 
 ## 🎯 Résumé
 
-Le site Awilix utilise une **stack moderne et minimaliste** :
+Le site NexRank utilise une **stack moderne et minimaliste** :
 
 ### Technologies Core
 ✅ HTML5 sémantique  
@@ -681,4 +681,4 @@ Le site Awilix utilise une **stack moderne et minimaliste** :
 
 ---
 
-*Document technique - Awilix - Janvier 2026*
+*Document technique - NexRank - Janvier 2026*

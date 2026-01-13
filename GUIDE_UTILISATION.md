@@ -1,4 +1,4 @@
-# 🚀 Guide d'Utilisation - Site Web Awilix
+# 🚀 Guide d'Utilisation - Site Web NexRank
 
 ## ✨ Félicitations !
 
@@ -47,7 +47,7 @@ Votre site web premium ultra design est **prêt à être déployé** !
    - Statistiques animées
    - Orbes animés en arrière-plan
 
-2. **🎯 Pourquoi Awilix**
+2. **🎯 Pourquoi NexRank**
    - 3 cartes (Problème / Solution / Bénéfices)
    - Card centrale mise en avant
    - Icons SVG personnalisés
@@ -93,7 +93,7 @@ Ouvrez directement `index.html` dans votre navigateur.
 
 **Avec Python 3 :**
 ```bash
-cd "/Users/admin/DEV AGENCY/DEV/awilis-main"
+cd "/Users/admin/DEV AGENCY/DEV/nexrank-main"
 python3 -m http.server 8000
 ```
 
@@ -112,7 +112,7 @@ Puis visitez : `http://localhost:8000`
 
 1. Créez un compte sur [netlify.com](https://www.netlify.com)
 2. Cliquez sur "Add new site" → "Deploy manually"
-3. Glissez-déposez le dossier `awilis-main`
+3. Glissez-déposez le dossier `nexrank-main`
 4. **C'est en ligne !** 🎉
 
 Vous obtiendrez une URL comme : `https://awilis-xyz123.netlify.app`
@@ -127,7 +127,7 @@ Vous obtiendrez une URL comme : `https://awilis-xyz123.netlify.app`
 
 ```bash
 npm i -g vercel
-cd awilis-main
+cd nexrank-main
 vercel
 ```
 
@@ -171,7 +171,7 @@ Ouvrez `index.html` et cherchez la section à modifier :
 
 ### 🖼️ Ajouter des Images
 
-1. Créez un dossier `images/` dans `awilis-main/`
+1. Créez un dossier `images/` dans `nexrank-main/`
 2. Placez vos images dedans
 3. Dans `index.html`, ajoutez :
 
@@ -276,7 +276,7 @@ Créez `sitemap.xml` :
 
 **3. Domaine personnalisé :**
 
-Sur Netlify/Vercel, connectez votre domaine (ex: `www.awilis.ai`)
+Sur Netlify/Vercel, connectez votre domaine (ex: `www.nexrank.ai`)
 
 ---
 
@@ -476,13 +476,13 @@ Vous avez maintenant un **site web premium ultra design**, prêt à convertir vo
 
 Si vous avez des questions ou besoin d'assistance :
 
-📧 Email : contact@awilis.ai  
+📧 Email : contact@nexrank.ai  
 📱 Téléphone : +33 1 23 45 67 89  
-🌐 Site : www.awilis.ai  
+🌐 Site : www.nexrank.ai  
 
 ---
 
-**Développé avec ❤️ et expertise pour Awilix**
+**Développé avec ❤️ et expertise pour NexRank**
 
 🚀 **Prêt à conquérir le web !**
 

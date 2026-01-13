@@ -1,4 +1,4 @@
-# 🚀 Awilix - Site Web Premium SEO & IA
+# 🚀 NexRank - Site Web Premium SEO & IA
 
 Site web ultra design pour une agence de référencement SEO & Intelligence Artificielle, conçu avec les meilleures pratiques de développement web moderne.
 
@@ -35,7 +35,7 @@ Site web ultra design pour une agence de référencement SEO & Intelligence Arti
 ## 📁 Structure du Projet
 
 ```
-awilis-main/
+nexrank-main/
 ├── index.html          # Structure HTML principale
 ├── styles.css          # Styles CSS avec design system
 ├── script.js           # JavaScript pour interactions
@@ -110,7 +110,7 @@ Le site fonctionne sans `npm install` ou gestionnaire de paquets. Toutes les dé
    - Statistiques clés
    - Animation de fond avec orbes
 
-2. **Pourquoi Awilix**
+2. **Pourquoi NexRank**
    - 3 cartes : Problème / Solution / Bénéfices
    - Card centrale mise en avant
    - Icons SVG personnalisés
@@ -248,7 +248,7 @@ Et ajouter le lien Google Fonts dans `index.html`.
 ### Modifier le Contenu
 Tout le contenu est dans `index.html`. Recherchez les sections par leur ID :
 - `#home` - Hero
-- `#why` - Pourquoi Awilix
+- `#why` - Pourquoi NexRank
 - `#services` - Services
 - `#process` - Processus
 - `#results` - Résultats
@@ -274,9 +274,9 @@ Ajouter dans `<head>` :
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Awilix",
+  "name": "NexRank",
   "description": "Agence SEO & IA Premium",
-  "url": "https://www.awilis.ai",
+  "url": "https://www.nexrank.ai",
   "telephone": "+33-1-23-45-67-89",
   "address": {
     "@type": "PostalAddress",
@@ -358,14 +358,14 @@ Upload via FTP sur votre hébergeur :
 
 ## 📝 Licence
 
-Ce projet est créé pour Awilix. Tous droits réservés.
+Ce projet est créé pour NexRank. Tous droits réservés.
 
 ## 💬 Support
 
 Pour toute question ou assistance :
-- 📧 Email : contact@awilis.ai
+- 📧 Email : contact@nexrank.ai
 - 📱 Téléphone : +33 1 23 45 67 89
-- 🌐 Site : [www.awilis.ai](https://www.awilis.ai)
+- 🌐 Site : [www.nexrank.ai](https://www.nexrank.ai)
 
 ## 🎯 Prochaines Étapes
 
@@ -402,6 +402,6 @@ Pour toute question ou assistance :
 
 ---
 
-**Développé avec ❤️ et expertise pour Awilix**
+**Développé avec ❤️ et expertise pour NexRank**
 
 🚀 **Prêt à dominer Google !**
