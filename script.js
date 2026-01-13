@@ -625,7 +625,7 @@ function isInViewport(element) {
 // CONSOLE BRANDING (Optional Easter Egg)
 // ============================================
 console.log(
-    '%cAwilis - SEO & IA Premium',
+    '%cAwilix - SEO & IA Premium',
     'font-size: 24px; font-weight: bold; color: #6366F1; text-shadow: 2px 2px 4px rgba(99, 102, 241, 0.3);'
 );
 console.log(

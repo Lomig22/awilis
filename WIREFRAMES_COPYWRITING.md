@@ -1,4 +1,4 @@
-# 📐 Wireframes & Copywriting - Awilis Site Premium
+# 📐 Wireframes & Copywriting - Awilix Site Premium
 
 ## 🎨 Wireframes Textuels des Sections
 
@@ -8,7 +8,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  [Logo A Awilis]    Services Processus Résultats Témoignages Contact  [Audit SEO Gratuit] │
+│  [Logo A Awilix]    Services Processus Résultats Témoignages Contact  [Audit SEO Gratuit] │
 └─────────────────────────────────────────────────────────────┘
 
                     [Orbes animés en arrière-plan]
@@ -64,7 +64,7 @@
 
 ```
                     ┌──────────────────┐
-                    │ Pourquoi Awilis  │
+                    │ Pourquoi Awilix  │
                     └──────────────────┘
 
             ═══════════════════════════════════
@@ -408,7 +408,7 @@ Description : "Courtier en assurance"
     ┌──────────────────────────────────────────────┐
     │  ⭐⭐⭐⭐⭐                                 │
     │                                              │
-    │  "Awilis a transformé notre stratégie        │
+    │  "Awilix a transformé notre stratégie        │
     │   digitale. En 4 mois, nous avons triplé     │
     │   notre trafic organique..."                 │
     │                                              │
@@ -424,7 +424,7 @@ Description : "Courtier en assurance"
 **Témoignage 1 : Sophie Chen**
 ```
 Note : ⭐⭐⭐⭐⭐
-Citation : "Awilis a complètement transformé notre stratégie digitale. 
+Citation : "Awilix a complètement transformé notre stratégie digitale. 
 En 4 mois, nous avons triplé notre trafic organique et multiplié par 5 
 nos leads qualifiés. Leur approche combinant SEO et IA est révolutionnaire."
 
@@ -572,7 +572,7 @@ Style: Primary (gradient bleu-violet)
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   [Logo] Awilis                                         │
+│   [Logo] Awilix                                         │
 │   Agence SEO & IA premium. Nous transformons votre     │
 │   visibilité digitale en croissance mesurable.         │
 │                                                         │
@@ -588,7 +588,7 @@ Style: Primary (gradient bleu-violet)
 │  • Reporting │  • Contact   │              │           │
 └──────────────┴──────────────┴──────────────┴───────────┘
 
-        © 2026 Awilis. Tous droits réservés.
+        © 2026 Awilix. Tous droits réservés.
         Mentions légales • Confidentialité • Cookies
 ```
 
@@ -603,7 +603,7 @@ Style: Primary (gradient bleu-violet)
    - Graphs montants avec courbes de croissance
    - Éléments 3D flottants (gradients bleu/violet)
 
-2. **Section Pourquoi Awilis :**
+2. **Section Pourquoi Awilix :**
    - Icons personnalisés pour chaque card
    - Illustration centrale pour la card "Solution"
 
@@ -843,4 +843,4 @@ Ce document fournit :
 
 ---
 
-*Document créé pour Awilis - Janvier 2026*
+*Document créé pour Awilix - Janvier 2026*

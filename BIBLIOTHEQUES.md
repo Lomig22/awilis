@@ -2,7 +2,7 @@
 
 ## 🎯 Vue d'ensemble
 
-Le site Awilis a été développé avec une approche **minimaliste et performante**, utilisant uniquement les technologies essentielles pour garantir :
+Le site Awilix a été développé avec une approche **minimaliste et performante**, utilisant uniquement les technologies essentielles pour garantir :
 
 ✅ **Performance maximale** (temps de chargement < 2s)  
 ✅ **Maintenance facile** (pas de dépendances complexes)  
@@ -460,7 +460,7 @@ Lighthouse Score: 70-85
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Awilis",
+  "name": "Awilix",
   "description": "Agence SEO & IA Premium",
   "url": "https://www.awilis.ai",
   "telephone": "+33-1-23-45-67-89"
@@ -477,8 +477,8 @@ Si vous souhaitez transformer le site en PWA :
 **manifest.json**
 ```json
 {
-  "name": "Awilis - SEO & IA",
-  "short_name": "Awilis",
+  "name": "Awilix - SEO & IA",
+  "short_name": "Awilix",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -654,7 +654,7 @@ Avant mise en ligne :
 
 ## 🎯 Résumé
 
-Le site Awilis utilise une **stack moderne et minimaliste** :
+Le site Awilix utilise une **stack moderne et minimaliste** :
 
 ### Technologies Core
 ✅ HTML5 sémantique  
@@ -681,4 +681,4 @@ Le site Awilis utilise une **stack moderne et minimaliste** :
 
 ---
 
-*Document technique - Awilis - Janvier 2026*
+*Document technique - Awilix - Janvier 2026*

@@ -1,4 +1,4 @@
-# 🚀 Awilis - Site Web Premium SEO & IA
+# 🚀 Awilix - Site Web Premium SEO & IA
 
 Site web ultra design pour une agence de référencement SEO & Intelligence Artificielle, conçu avec les meilleures pratiques de développement web moderne.
 
@@ -110,7 +110,7 @@ Le site fonctionne sans `npm install` ou gestionnaire de paquets. Toutes les dé
    - Statistiques clés
    - Animation de fond avec orbes
 
-2. **Pourquoi Awilis**
+2. **Pourquoi Awilix**
    - 3 cartes : Problème / Solution / Bénéfices
    - Card centrale mise en avant
    - Icons SVG personnalisés
@@ -248,7 +248,7 @@ Et ajouter le lien Google Fonts dans `index.html`.
 ### Modifier le Contenu
 Tout le contenu est dans `index.html`. Recherchez les sections par leur ID :
 - `#home` - Hero
-- `#why` - Pourquoi Awilis
+- `#why` - Pourquoi Awilix
 - `#services` - Services
 - `#process` - Processus
 - `#results` - Résultats
@@ -274,7 +274,7 @@ Ajouter dans `<head>` :
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Awilis",
+  "name": "Awilix",
   "description": "Agence SEO & IA Premium",
   "url": "https://www.awilis.ai",
   "telephone": "+33-1-23-45-67-89",
@@ -358,7 +358,7 @@ Upload via FTP sur votre hébergeur :
 
 ## 📝 Licence
 
-Ce projet est créé pour Awilis. Tous droits réservés.
+Ce projet est créé pour Awilix. Tous droits réservés.
 
 ## 💬 Support
 
@@ -402,6 +402,6 @@ Pour toute question ou assistance :
 
 ---
 
-**Développé avec ❤️ et expertise pour Awilis**
+**Développé avec ❤️ et expertise pour Awilix**
 
 🚀 **Prêt à dominer Google !**

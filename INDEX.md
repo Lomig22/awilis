@@ -1,6 +1,6 @@
 # 🎉 SITE WEB AWILIS - INDEX GÉNÉRAL
 
-## 📍 Vous êtes ici : Awilis Premium Website v1.0
+## 📍 Vous êtes ici : Awilix Premium Website v1.0
 
 Bienvenue dans votre **site web premium ultra design** pour votre agence SEO & IA !
 
@@ -100,7 +100,7 @@ Vous aurez une URL type : `https://awilis-xyz.netlify.app`
    - Statistiques animées (350%, 98%, 24h)
    - Orbes animés en arrière-plan
 
-2. **🎯 Pourquoi Awilis**
+2. **🎯 Pourquoi Awilix**
    - 3 cartes : Problème / Solution / Bénéfices
    - Card centrale en gradient (mise en avant)
    - Icons SVG modernes
@@ -488,4 +488,4 @@ Lighthouse Score : 95-100
 
 ---
 
-**🎯 INDEX.md - Votre point de départ pour tout le projet Awilis !**
+**🎯 INDEX.md - Votre point de départ pour tout le projet Awilix !**

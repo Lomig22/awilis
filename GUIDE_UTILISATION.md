@@ -1,4 +1,4 @@
-# 🚀 Guide d'Utilisation - Site Web Awilis
+# 🚀 Guide d'Utilisation - Site Web Awilix
 
 ## ✨ Félicitations !
 
@@ -47,7 +47,7 @@ Votre site web premium ultra design est **prêt à être déployé** !
    - Statistiques animées
    - Orbes animés en arrière-plan
 
-2. **🎯 Pourquoi Awilis**
+2. **🎯 Pourquoi Awilix**
    - 3 cartes (Problème / Solution / Bénéfices)
    - Card centrale mise en avant
    - Icons SVG personnalisés
@@ -482,7 +482,7 @@ Si vous avez des questions ou besoin d'assistance :
 
 ---
 
-**Développé avec ❤️ et expertise pour Awilis**
+**Développé avec ❤️ et expertise pour Awilix**
 
 🚀 **Prêt à conquérir le web !**
 
